@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @hmyers21
-- 👀 I’m interested in music and sports
-- 🌱 I’m currently learning R and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m `@hmyers21`
+- 👀 I’m interested in music, sports, and analytics
+- 🌱 I’m currently learning R, Python, and coding a mobile app
+
 
 <!---
 hmyers21/hmyers21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
